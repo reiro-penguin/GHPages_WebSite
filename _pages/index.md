@@ -3,6 +3,7 @@ title: "玲瓏"
 author: default
 permalink: /
 ---
+![image](/GHPages_WebSite/assets/images/logo-150.png)
 
 
 
