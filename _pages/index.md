@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "玲瓏"
 author: default
 permalink: /
 ---
